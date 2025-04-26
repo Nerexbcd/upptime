@@ -4,17 +4,19 @@
     "url": "https://nerexbcd.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nerexbcd.dev.ico",
     "slug": "main-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1582,
-    "timeDay": 1400,
-    "timeWeek": 1645,
-    "timeMonth": 1585,
-    "timeYear": 1582,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1590,
+    "timeDay": 1618,
+    "timeWeek": 1669,
+    "timeMonth": 1593,
+    "timeYear": 1590,
+    "dailyMinutesDown": {
+      "2025-04-26": 10
+    }
   }
 ]
